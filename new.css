@@ -1,0 +1,22 @@
+.cal{
+    width: 400px;
+    height: 550px;
+    background: gold;
+    margin-left: 700px;
+    margin-top: 90px;
+}
+#screen{
+    margin-top: 10px;
+    margin-left:40px;
+    width: 80%;
+    height: 40px;
+    pointer-events: none;
+
+}
+.btn{
+    width: 50px;
+    height: 50px;
+    margin-left: 42px;
+    margin-top: 30px;
+    background-color: aqua;     
+}
